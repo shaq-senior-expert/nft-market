@@ -8,10 +8,6 @@
 
 Prototype of a NFT Marketplace based on openZeppelin abstract upgradeable ERC721 contracts and Minting/uploading images to IPFS and integration with Opensea.io
 
-## ⚙️ Dependencies
-
-This project relies on [NFT Contracts](https://github.com/silviopaganini/nft-contracts) package and [NFT Lambda Service](https://github.com/silviopaganini/nft-market-service) for serving the metadata
-
 ## 🔬 Functionalities
 
 1. Buy a pre-minted token.
@@ -25,15 +21,9 @@ This project relies on [NFT Contracts](https://github.com/silviopaganini/nft-con
 
 <hr />
 
-See it live on [Rinkeby Network](https://nft.s2paganini.com) 
-
-See [my portfolio](https://s2paganini.com/case/ckm0zl44o0w1i0a54lryryi1d) for more details 
-
 <hr />
 
 ## ETH-USD Service
-
-It's been transferred to the [NFT Lambda Service](https://github.com/silviopaganini/nft-market-service) repository.
 
 ## ⚡️ Tech-Stack
 
